@@ -1,5 +1,5 @@
 import React from "react";
-import YourInfo from "./steps/yourInfo";
+import YourInfo from "./steps/YourInfo";
 import SelectPlan from "./steps/SelectPlan";
 import AddOns from "./steps/AddOns";
 import Summary from "./steps/Summary";
